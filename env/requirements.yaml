@@ -10,6 +10,9 @@ dependencies:
 - name: node-jx-123
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: python-cicd-example
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: python-jx-456
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
