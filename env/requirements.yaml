@@ -12,7 +12,6 @@ dependencies:
   version: 0.0.3
 - name: python-cicd-example
   repository: http://jenkins-x-chartmuseum:8080
-- name: promote-python-cicd-example-0.0.3
   version: 0.0.3
 - name: python-jx-456
   repository: http://jenkins-x-chartmuseum:8080
